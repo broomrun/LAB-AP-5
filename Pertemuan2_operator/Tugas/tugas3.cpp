@@ -69,7 +69,7 @@ int main() {
             break;
 
         default:
-            cout << "salah huruf" << endl;
+            cout << "error" << endl;
     }
 
     return 0;

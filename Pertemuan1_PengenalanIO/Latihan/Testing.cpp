@@ -8,4 +8,5 @@ int main(){
     cout << "Masukkan nama kamu: ";
     getline(cin, nama);
     cout << nama;
-} // or alt shift a
+} // or alt shift a 
+
