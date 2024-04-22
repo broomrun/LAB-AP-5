@@ -4,11 +4,11 @@ using namespace std;
 int main(){
     system("CLS");
 
-    /* // unary minus
+   /*  // unary minus
     int bilangan1 = 5;
-    bilangan1 = -5;
-    cout<<bilangan1; */
-
+    int bilangan2 = -5;
+    cout<<bilangan1;
+ */
     /* // penjumlahan
     int bilangan2 = 5;
     int bilangan3= 10;
