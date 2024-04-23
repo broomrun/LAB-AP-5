@@ -10,7 +10,7 @@ int main() {
     cin>> tinggi;
 
     for (int i = 0; i < tinggi; i++){
-        fpr (int j = 0; j < = i; j++){
+        for (int j = 0; j <= i; j++){
             cout << "*";
         }
         cout<< endl;
